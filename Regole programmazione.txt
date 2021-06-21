@@ -1,0 +1,14 @@
+- Niente numeri magici
+- Pieno controllo degli oggetti
+- Mai creare codici morti (che rinviano solo il problema)
+- Stare attenti al sorting
+- Essere espliciti, chiarezza espositiva
+- Non usare la classe Object (superclasse)
+- Controllare il processo di istanze/processo di New
+
+
+KISS = Keep It Simple Stupid
+SOC = Separation Of Concernes 
+Dry = Cercare di non scrivere in modo troppo abbondante
+
+Creazione Architetturale
